@@ -1,6 +1,6 @@
 # Aazami Site
 
-Project for MakeUofT 2023
+Site for [Aazami](https://github.com/skim1601/Aazami)
 
 ## Recommended IDE Setup
 
