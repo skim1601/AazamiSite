@@ -1,4 +1,4 @@
-# Aazami
+# Aazami Site
 
 Project for MakeUofT 2023
 
