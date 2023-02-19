@@ -1,6 +1,7 @@
 # Aazami Site
 
 Site for [Aazami](https://github.com/skim1601/Aazami)
+[Link](https://aazami.netlify.app/)
 
 ## Recommended IDE Setup
 
