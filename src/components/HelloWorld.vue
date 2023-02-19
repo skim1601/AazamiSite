@@ -31,7 +31,7 @@ h3 {
   font-family: 'DM Sans';
 }
 
-.greetings h1{
+.greetings h1 {
   font-family: "Orbitron";
   font-size: min(5rem, 10vw);   
   text-align: center;
@@ -42,9 +42,9 @@ h3 {
 	-webkit-text-fill-color: transparent; 
 	-moz-text-fill-color: transparent;
 }
-.greetings h1,
 .greetings h3 {
   color: #fff;
+  font-size: min(1.5rem, 5vw);   
 }
 
 @media (min-width: 1024px) {
